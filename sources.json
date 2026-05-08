@@ -5,7 +5,7 @@
     {
       "name": "Example TVBox Config 1",
       "url": "http://tv.nxog.top/m/",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Example TVBox Config 2",
@@ -15,12 +15,12 @@
     {
       "name": "Candidate - 1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Candidate - qist TvBox",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
