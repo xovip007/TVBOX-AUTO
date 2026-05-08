@@ -1,0 +1,26 @@
+{
+  "timeoutMs": 6000,
+  "maxActiveSources": 3,
+  "sources": [
+    {
+      "name": "Example TVBox Config 1",
+      "url": "http://tv.nxog.top/m/",
+      "enabled": false
+    },
+    {
+      "name": "Example TVBox Config 2",
+      "url": "https://example.org/config.json",
+      "enabled": false
+    },
+    {
+      "name": "Candidate - 1771245847 TvBox",
+      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+      "enabled": false
+    },
+    {
+      "name": "Candidate - qist TvBox",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "enabled": false
+    }
+  ]
+}
