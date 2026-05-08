@@ -1,6 +1,52 @@
 {
   "spider": "",
-  "sites": [],
+  "sites": [
+    {
+      "key": "Candidate - FreeOK Box",
+      "name": "Candidate - FreeOK Box",
+      "type": 3,
+      "api": "https://api.freeob.com/box/m.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - Jundie Top98",
+      "name": "Candidate - Jundie Top98",
+      "type": 3,
+      "api": "http://home.jundie.top:81/top98.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - Pastebin TVBox",
+      "name": "Candidate - Pastebin TVBox",
+      "type": 3,
+      "api": "https://pastebin.com/raw/sbPpDm9G",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - FreeOK TVBox",
+      "name": "Candidate - FreeOK TVBox",
+      "type": 3,
+      "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - qist TvBox",
+      "name": "Candidate - qist TvBox",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
   "lives": [],
   "parses": [],
   "flags": [],
