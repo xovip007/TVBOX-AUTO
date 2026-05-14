@@ -11,10 +11,10 @@
       "filterable": 1
     },
     {
-      "key": "Candidate - qist TvBox",
-      "name": "Candidate - qist TvBox",
+      "key": "Candidate - Pastebin TVBox",
+      "name": "Candidate - Pastebin TVBox",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "api": "https://pastebin.com/raw/sbPpDm9G",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -29,19 +29,19 @@
       "filterable": 1
     },
     {
-      "key": "Candidate - FreeOK TVBox",
-      "name": "Candidate - FreeOK TVBox",
+      "key": "Candidate - qist TvBox",
+      "name": "Candidate - qist TvBox",
       "type": 3,
-      "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - Pastebin TVBox",
-      "name": "Candidate - Pastebin TVBox",
+      "key": "Candidate - FreeOK TVBox",
+      "name": "Candidate - FreeOK TVBox",
       "type": 3,
-      "api": "https://pastebin.com/raw/sbPpDm9G",
+      "api": "https://api.freeob.com/tvbox/jiekou.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
