@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-05-14T05:50:24.821Z",
+  "updatedAt": "2026-05-15T05:57:03.466Z",
   "activeCount": 5,
   "activeSources": [
     {
       "name": "Candidate - FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 45
-    },
-    {
-      "name": "Candidate - Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 45
+      "elapsedMs": 23
     },
     {
       "name": "Candidate - dxawi 0",
       "url": "https://dxawi.github.io/0/0.json",
-      "elapsedMs": 109
+      "elapsedMs": 74
     },
     {
       "name": "Candidate - qist TvBox",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 139
+      "elapsedMs": 104
     },
     {
       "name": "Candidate - FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 180
+      "elapsedMs": 135
+    },
+    {
+      "name": "Candidate - Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "elapsedMs": 488
     }
   ],
   "failedCount": 3

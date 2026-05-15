@@ -11,15 +11,6 @@
       "filterable": 1
     },
     {
-      "key": "Candidate - Pastebin TVBox",
-      "name": "Candidate - Pastebin TVBox",
-      "type": 3,
-      "api": "https://pastebin.com/raw/sbPpDm9G",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Candidate - dxawi 0",
       "name": "Candidate - dxawi 0",
       "type": 3,
@@ -42,6 +33,15 @@
       "name": "Candidate - FreeOK TVBox",
       "type": 3,
       "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - Pastebin TVBox",
+      "name": "Candidate - Pastebin TVBox",
+      "type": 3,
+      "api": "https://pastebin.com/raw/sbPpDm9G",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
