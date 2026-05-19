@@ -2,15 +2,6 @@
   "spider": "",
   "sites": [
     {
-      "key": "Candidate - qist TvBox",
-      "name": "Candidate - qist TvBox",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Candidate - dxawi 0",
       "name": "Candidate - dxawi 0",
       "type": 3,
@@ -20,19 +11,37 @@
       "filterable": 1
     },
     {
-      "key": "Candidate - Pastebin TVBox",
-      "name": "Candidate - Pastebin TVBox",
+      "key": "Candidate - FreeOK Box",
+      "name": "Candidate - FreeOK Box",
       "type": 3,
-      "api": "https://pastebin.com/raw/sbPpDm9G",
+      "api": "https://api.freeob.com/box/m.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - Jundie Top98",
-      "name": "Candidate - Jundie Top98",
+      "key": "Candidate - FreeOK TVBox",
+      "name": "Candidate - FreeOK TVBox",
       "type": 3,
-      "api": "http://home.jundie.top:81/top98.json",
+      "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - qist TvBox",
+      "name": "Candidate - qist TvBox",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - Pastebin TVBox",
+      "name": "Candidate - Pastebin TVBox",
+      "type": 3,
+      "api": "https://pastebin.com/raw/sbPpDm9G",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
