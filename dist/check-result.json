@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-05-21T06:12:59.720Z",
+  "updatedAt": "2026-05-22T06:10:28.456Z",
   "results": [
+    {
+      "name": "Candidate - dxawi 0",
+      "url": "https://dxawi.github.io/0/0.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 30,
+      "contentType": "application/json; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 18598
+    },
     {
       "name": "Candidate - FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 25,
+      "elapsedMs": 40,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -18,43 +30,19 @@
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 96,
+      "elapsedMs": 71,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
-      "size": 51409
-    },
-    {
-      "name": "Candidate - dxawi 0",
-      "url": "https://dxawi.github.io/0/0.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 108,
-      "contentType": "application/json; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 18598
-    },
-    {
-      "name": "Candidate - FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 143,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6053
+      "size": 51738
     },
     {
       "name": "Candidate - 1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 155,
+      "elapsedMs": 94,
       "contentType": "text/plain; charset=utf-8",
       "isJson": false,
       "hasSites": false,
@@ -62,11 +50,35 @@
       "size": 9783
     },
     {
+      "name": "Example TVBox Config 1",
+      "url": "http://tv.nxog.top/m/",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 199,
+      "contentType": "text/html; charset=UTF-8",
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 25969
+    },
+    {
+      "name": "Candidate - FreeOK TVBox",
+      "url": "https://api.freeob.com/tvbox/jiekou.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 214,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 6053
+    },
+    {
       "name": "Candidate - Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 613,
+      "elapsedMs": 442,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -78,18 +90,12 @@
       "url": "http://home.jundie.top:81/top98.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 932,
+      "elapsedMs": 826,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
       "size": 16543
-    },
-    {
-      "name": "Example TVBox Config 1",
-      "url": "http://tv.nxog.top/m/",
-      "ok": false,
-      "error": "fetch failed"
     }
   ]
 }
