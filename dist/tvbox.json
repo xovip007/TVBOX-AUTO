@@ -2,15 +2,6 @@
   "spider": "",
   "sites": [
     {
-      "key": "Candidate - qist TvBox",
-      "name": "Candidate - qist TvBox",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Candidate - FreeOK Box",
       "name": "Candidate - FreeOK Box",
       "type": 3,
@@ -33,6 +24,15 @@
       "name": "Candidate - FreeOK TVBox",
       "type": 3,
       "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Candidate - qist TvBox",
+      "name": "Candidate - qist TvBox",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
