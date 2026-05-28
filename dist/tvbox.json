@@ -11,19 +11,19 @@
       "filterable": 1
     },
     {
-      "key": "Candidate - dxawi 0",
-      "name": "Candidate - dxawi 0",
+      "key": "Candidate - qist TvBox",
+      "name": "Candidate - qist TvBox",
       "type": 3,
-      "api": "https://dxawi.github.io/0/0.json",
+      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - qist TvBox",
-      "name": "Candidate - qist TvBox",
+      "key": "Candidate - dxawi 0",
+      "name": "Candidate - dxawi 0",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "api": "https://dxawi.github.io/0/0.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
