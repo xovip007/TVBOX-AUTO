@@ -5,6 +5,38 @@ const RESULT_FILE = new URL('../dist/check-result.json', import.meta.url);
 const OUT_FILE = new URL('../dist/tvbox.json', import.meta.url);
 const STATUS_FILE = new URL('../dist/status.json', import.meta.url);
 
+// Base URL for resolving relative paths (gaotianliuyun/gao master branch)
+const RELATIVE_BASE = 'https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/';
+
+function fixRelativePaths(obj) {
+  if (typeof obj === 'string') {
+    // Fix spider: "./jar/pg.jar;md5;xxx" -> absolute URL
+    if (obj.startsWith('./')) {
+      const parts = obj.split(';');
+      parts[0] = RELATIVE_BASE + parts[0].slice(2);
+      return parts.join(';');
+    }
+    // Fix live url: "./list.txt" -> absolute URL
+    return obj;
+  }
+  if (Array.isArray(obj)) {
+    return obj.map(fixRelativePaths);
+  }
+  if (obj && typeof obj === 'object') {
+    const fixed = {};
+    for (const [key, value] of Object.entries(obj)) {
+      // Fix "ext" fields that may contain relative paths
+      if (typeof value === 'string' && value.startsWith('./')) {
+        fixed[key] = RELATIVE_BASE + value.slice(2);
+      } else {
+        fixed[key] = fixRelativePaths(value);
+      }
+    }
+    return fixed;
+  }
+  return obj;
+}
+
 async function fetchConfig(url, timeoutMs) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
@@ -26,7 +58,6 @@ async function main() {
   const result = JSON.parse(await fs.readFile(RESULT_FILE, 'utf8'));
   const timeoutMs = Number(sourceConfig.timeoutMs || 8000);
 
-  // Filter to working sources that return valid JSON with sites
   const working = result.results
     .filter(item => item.ok && item.isJson && item.hasSites)
     .sort((a, b) => (a.elapsedMs || 999999) - (b.elapsedMs || 999999));
@@ -36,7 +67,6 @@ async function main() {
     process.exit(1);
   }
 
-  // Fetch full config from top 5 fastest sources, pick the one with most sites
   const topN = Math.min(5, working.length);
   let bestConfig = null;
   let bestSource = null;
@@ -63,12 +93,23 @@ async function main() {
     process.exit(1);
   }
 
-  // Add wallpaper fallback if missing
-  if (!bestConfig.wallpaper) {
-    bestConfig.wallpaper = 'https://picsum.photos/1920/1080';
+  // Fix all relative paths (spider, live url, ext, etc.) to absolute URLs
+  const fixedConfig = fixRelativePaths(bestConfig);
+  if (!fixedConfig.wallpaper) {
+    fixedConfig.wallpaper = 'https://picsum.photos/1920/1080';
   }
 
-  await fs.writeFile(OUT_FILE, JSON.stringify(bestConfig, null, 2));
+  await fs.writeFile(OUT_FILE, JSON.stringify(fixedConfig, null, 2));
+
+  // Report fixed paths
+  console.log(`\nFixed relative paths:`);
+  console.log(`  spider: ${fixedConfig.spider}`);
+  const lives = fixedConfig.lives || [];
+  for (const live of lives.slice(0, 3)) {
+    if (live.url?.startsWith(RELATIVE_BASE)) {
+      console.log(`  live: ${live.name} -> ${live.url}`);
+    }
+  }
 
   const status = {
     updatedAt: new Date().toISOString(),
@@ -78,7 +119,7 @@ async function main() {
   };
 
   await fs.writeFile(STATUS_FILE, JSON.stringify(status, null, 2));
-  console.log(`Generated dist/tvbox.json from ${bestSource.name}: ${bestSiteCount} sites, ${working.length} sources available`);
+  console.log(`\nGenerated dist/tvbox.json from ${bestSource.name}: ${bestSiteCount} sites, ${working.length} sources available`);
 }
 
 main().catch(err => {

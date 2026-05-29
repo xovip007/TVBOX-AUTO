@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-29T06:57:09.041Z",
+  "updatedAt": "2026-05-29T07:04:32.817Z",
   "activeSource": {
-    "name": "高天流云 JS",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "elapsedMs": 670,
-    "siteCount": 298
+    "name": "高天流云 FTY 0826",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+    "elapsedMs": 609,
+    "siteCount": 51
   },
   "availableSources": [
     {
