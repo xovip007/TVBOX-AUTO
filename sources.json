@@ -1,5 +1,5 @@
 {
-  "timeoutMs": 8000,
+  "timeoutMs": 12000,
   "maxActiveSources": 5,
   "sources": [
     {
