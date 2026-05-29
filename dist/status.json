@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-05-29T06:53:10.782Z",
-  "activeCount": 5,
-  "activeSources": [
+  "updatedAt": "2026-05-29T06:57:09.041Z",
+  "activeSource": {
+    "name": "高天流云 JS",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "elapsedMs": 670,
+    "siteCount": 298
+  },
+  "availableSources": [
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
@@ -26,7 +31,27 @@
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "elapsedMs": 705
+    },
+    {
+      "name": "FreeOK TVBox",
+      "url": "https://api.freeob.com/tvbox/jiekou.json",
+      "elapsedMs": 828
+    },
+    {
+      "name": "高天流云 0821",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "elapsedMs": 1134
+    },
+    {
+      "name": "高天流云 FM 0827",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "elapsedMs": 1174
+    },
+    {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "elapsedMs": 1344
     }
   ],
-  "failedCount": 9
+  "failedCount": 5
 }
