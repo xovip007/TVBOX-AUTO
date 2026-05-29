@@ -45,17 +45,17 @@
     {
       "name": "dxawi 0",
       "url": "https://dxawi.github.io/0/0.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "qist TvBox",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Pastebin TVBox",

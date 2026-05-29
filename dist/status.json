@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-05-29T06:16:42.046Z",
+  "updatedAt": "2026-05-29T06:53:10.782Z",
   "activeCount": 5,
   "activeSources": [
     {
-      "name": "Candidate - FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 25
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "elapsedMs": 132
     },
     {
-      "name": "Candidate - dxawi 0",
-      "url": "https://dxawi.github.io/0/0.json",
-      "elapsedMs": 92
+      "name": "高天流云 PG 0825",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "elapsedMs": 361
     },
     {
-      "name": "Candidate - FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 113
+      "name": "高天流云 FTY 0826",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "elapsedMs": 609
     },
     {
-      "name": "Candidate - qist TvBox",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 144
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "elapsedMs": 670
     },
     {
-      "name": "Candidate - Pastebin TVBox",
+      "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 482
+      "elapsedMs": 705
     }
   ],
-  "failedCount": 3
+  "failedCount": 9
 }

@@ -1,84 +1,72 @@
 {
-  "updatedAt": "2026-05-29T06:16:41.865Z",
+  "updatedAt": "2026-05-29T06:51:28.967Z",
   "results": [
     {
-      "name": "Candidate - FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 25,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6400
-    },
-    {
-      "name": "Candidate - dxawi 0",
-      "url": "https://dxawi.github.io/0/0.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 92,
-      "contentType": "application/json; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 18598
-    },
-    {
-      "name": "Candidate - FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 113,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6053
-    },
-    {
-      "name": "Candidate - qist TvBox",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 144,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 50240
-    },
-    {
-      "name": "Candidate - 1771245847 TvBox",
-      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 212,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 9783
-    },
-    {
-      "name": "Example TVBox Config 1",
+      "name": "tv.nxog.top",
       "url": "http://tv.nxog.top/m/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 343,
+      "elapsedMs": 48,
       "contentType": "text/html; charset=UTF-8",
       "isJson": false,
       "hasSites": false,
       "hasLives": false,
-      "size": 28148
+      "size": 28145
     },
     {
-      "name": "Candidate - Pastebin TVBox",
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 132,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 16543
+    },
+    {
+      "name": "高天流云 PG 0825",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 361,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 27518
+    },
+    {
+      "name": "高天流云 FTY 0826",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 609,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 10559
+    },
+    {
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 670,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 51621
+    },
+    {
+      "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 482,
+      "elapsedMs": 705,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -86,16 +74,82 @@
       "size": 9886
     },
     {
-      "name": "Candidate - Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
+      "name": "FreeOK TVBox",
+      "url": "https://api.freeob.com/tvbox/jiekou.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 821,
+      "elapsedMs": 828,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
-      "size": 16543
+      "size": 6053
+    },
+    {
+      "name": "高天流云 XYQ",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 1031,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 19203
+    },
+    {
+      "name": "高天流云 0821",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 1134,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 22974
+    },
+    {
+      "name": "高天流云 FM 0827",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 1174,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": false,
+      "size": 9973
+    },
+    {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 1344,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 6400
+    },
+    {
+      "name": "dxawi 0",
+      "url": "https://dxawi.github.io/0/0.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "qist TvBox",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "1771245847 TvBox",
+      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+      "ok": false,
+      "error": "timeout"
     }
   ]
 }

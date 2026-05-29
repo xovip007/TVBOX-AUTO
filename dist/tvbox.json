@@ -2,44 +2,44 @@
   "spider": "",
   "sites": [
     {
-      "key": "Candidate - FreeOK Box",
-      "name": "Candidate - FreeOK Box",
+      "key": "Jundie Top98",
+      "name": "Jundie Top98",
       "type": 3,
-      "api": "https://api.freeob.com/box/m.json",
+      "api": "http://home.jundie.top:81/top98.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - dxawi 0",
-      "name": "Candidate - dxawi 0",
+      "key": "高天流云 PG 0825",
+      "name": "高天流云 PG 0825",
       "type": 3,
-      "api": "https://dxawi.github.io/0/0.json",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - FreeOK TVBox",
-      "name": "Candidate - FreeOK TVBox",
+      "key": "高天流云 FTY 0826",
+      "name": "高天流云 FTY 0826",
       "type": 3,
-      "api": "https://api.freeob.com/tvbox/jiekou.json",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - qist TvBox",
-      "name": "Candidate - qist TvBox",
+      "key": "高天流云 JS",
+      "name": "高天流云 JS",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Candidate - Pastebin TVBox",
-      "name": "Candidate - Pastebin TVBox",
+      "key": "Pastebin TVBox",
+      "name": "Pastebin TVBox",
       "type": 3,
       "api": "https://pastebin.com/raw/sbPpDm9G",
       "searchable": 1,
