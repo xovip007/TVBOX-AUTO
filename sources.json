@@ -1,50 +1,75 @@
 {
-  "timeoutMs": 6000,
+  "timeoutMs": 8000,
   "maxActiveSources": 5,
   "sources": [
     {
-      "name": "Example TVBox Config 1",
-      "url": "http://tv.nxog.top/m/",
+      "name": "高天流云 0821",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "enabled": true
     },
     {
-      "name": "Example TVBox Config 2",
-      "url": "https://example.org/config.json",
-      "enabled": false
-    },
-    {
-      "name": "Candidate - 1771245847 TvBox",
-      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+      "name": "高天流云 PG 0825",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "enabled": true
     },
     {
-      "name": "Candidate - qist TvBox",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "name": "高天流云 FTY 0826",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "enabled": true
     },
     {
-      "name": "Candidate - dxawi 0",
-      "url": "https://dxawi.github.io/0/0.json",
+      "name": "高天流云 FM 0827",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "enabled": true
     },
     {
-      "name": "Candidate - Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "enabled": true
     },
     {
-      "name": "Candidate - FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
+      "name": "高天流云 XYQ",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "enabled": true
     },
     {
-      "name": "Candidate - FreeOK Box",
+      "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
       "enabled": true
     },
     {
-      "name": "Candidate - Pastebin TVBox",
+      "name": "FreeOK TVBox",
+      "url": "https://api.freeob.com/tvbox/jiekou.json",
+      "enabled": true
+    },
+    {
+      "name": "dxawi 0",
+      "url": "https://dxawi.github.io/0/0.json",
+      "enabled": true
+    },
+    {
+      "name": "qist TvBox",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "enabled": true
+    },
+    {
+      "name": "1771245847 TvBox",
+      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+      "enabled": true
+    },
+    {
+      "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
+      "enabled": true
+    },
+    {
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "enabled": true
+    },
+    {
+      "name": "tv.nxog.top",
+      "url": "http://tv.nxog.top/m/",
       "enabled": true
     }
   ]
