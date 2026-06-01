@@ -1,108 +1,24 @@
 {
-  "updatedAt": "2026-05-31T06:21:28.621Z",
+  "updatedAt": "2026-06-01T07:01:46.909Z",
   "results": [
-    {
-      "name": "FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 42,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6053
-    },
-    {
-      "name": "高天流云 JS",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 117,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 51621
-    },
-    {
-      "name": "FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 149,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6400
-    },
-    {
-      "name": "高天流云 XYQ",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 206,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 19203
-    },
-    {
-      "name": "高天流云 FM 0827",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 208,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": false,
-      "size": 9973
-    },
-    {
-      "name": "高天流云 PG 0825",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 211,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 27518
-    },
-    {
-      "name": "高天流云 FTY 0826",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 243,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 10559
-    },
     {
       "name": "tv.nxog.top",
       "url": "http://tv.nxog.top/m/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 443,
+      "elapsedMs": 280,
       "contentType": "text/html; charset=UTF-8",
       "isJson": false,
       "hasSites": false,
       "hasLives": false,
-      "size": 28148
+      "size": 4952
     },
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 445,
+      "elapsedMs": 420,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -110,28 +26,76 @@
       "size": 9886
     },
     {
-      "name": "高天流云 0821",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 560,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 22974
-    },
-    {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1603,
+      "elapsedMs": 800,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
       "size": 16543
+    },
+    {
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 7260,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 51621
+    },
+    {
+      "name": "高天流云 PG 0825",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 11569,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 27518
+    },
+    {
+      "name": "高天流云 0821",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "高天流云 FTY 0826",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "高天流云 FM 0827",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "高天流云 XYQ",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "name": "FreeOK TVBox",
+      "url": "https://api.freeob.com/tvbox/jiekou.json",
+      "ok": false,
+      "error": "fetch failed"
     }
   ]
 }
