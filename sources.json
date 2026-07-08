@@ -2,35 +2,36 @@
   "timeoutMs": 12000,
   "maxActiveSources": 5,
   "sources": [
+
     {
-      "name": "高天流云 0821",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "name": "🍚饭太硬",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
       "enabled": true
     },
     {
-      "name": "高天流云 PG 0825",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "enabled": true
+      "name": "🤖潇洒主线",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "enabled": false
     },
     {
-      "name": "高天流云 FTY 0826",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "enabled": true
+      "name": "⚜qist-jsm",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "enabled": false
     },
     {
-      "name": "高天流云 FM 0827",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "enabled": true
+      "name": "⚜qist-xiaosa",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "enabled": false
     },
     {
-      "name": "高天流云 JS",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "enabled": true
-    },
+      "name": "📺qist-dianshi",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "enabled": false
+    },    
     {
-      "name": "高天流云 XYQ",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "enabled": true
+      "name": "1771245847 TvBox",
+      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+      "enabled": false
     },
     {
       "name": "FreeOK Box",
@@ -43,23 +44,18 @@
       "enabled": true
     },
     {
-      "name": "dxawi 0",
-      "url": "https://dxawi.github.io/0/0.json",
-      "enabled": false
-    },
-    {
-      "name": "qist TvBox",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "name": "Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
       "enabled": true
     },
     {
-      "name": "1771245847 TvBox",
-      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": false
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "enabled": true
     },
     {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
       "enabled": true
     },
     {
