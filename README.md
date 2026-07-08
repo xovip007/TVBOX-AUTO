@@ -98,13 +98,13 @@ dist/check-result.json
 Raw 地址：
 
 ```text
-https://raw.githubusercontent.com/你的用户名/tvbox-auto/main/dist/tvbox.json
+https://raw.githubusercontent.com/xovip007/tvbox-auto/main/dist/tvbox.json
 ```
 
 jsDelivr CDN 地址：
 
 ```text
-https://cdn.jsdelivr.net/gh/你的用户名/tvbox-auto@main/dist/tvbox.json
+https://cdn.jsdelivr.net/gh/xovip007/tvbox-auto@main/dist/tvbox.json
 ```
 
 电视端建议优先试 Raw 地址；如果电视访问 GitHub 慢，再试 CDN 地址。
