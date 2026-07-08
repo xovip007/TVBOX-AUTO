@@ -27,7 +27,17 @@
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
       "enabled": false
-    },    
+    },
+    {
+      "name": "zzq1234567890 adult",
+      "url": "https://raw.githubusercontent.com/zzq1234567890/tvbox1/refs/heads/main/adult.json",
+      "enabled": true
+    },
+    {
+      "name": "25175 TvBox",
+      "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
+      "enabled": true
+    },
     {
       "name": "1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
