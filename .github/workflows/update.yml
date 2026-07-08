@@ -3,7 +3,7 @@ name: Update TVBox Config
 on:
   schedule:
     # GitHub Actions uses UTC. This runs every day at 02:00 UTC.
-    - cron: "0 2 * * *"
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 permissions:
