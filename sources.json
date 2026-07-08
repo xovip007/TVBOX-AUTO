@@ -11,22 +11,22 @@
     {
       "name": "🤖潇洒主线",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "⚜qist-jsm",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "⚜qist-xiaosa",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "enabled": false
+      "enabled": true
     },    
     {
       "name": "1771245847 TvBox",
@@ -46,27 +46,32 @@
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
+      "enabled": false
+    },
+    {
+      "name": "cluntop box",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
+      "enabled": true
+    },
+    {
+      "name": "cluntop fun",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+      "enabled": true
+    },
+    {
+      "name": "apaoyun 186",
+      "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
       "enabled": true
     },
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
-      "enabled": true
-    },
-    {
-      "name": "Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
-      "enabled": true
-    },
-    {
-      "name": "Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "tv.nxog.top",
       "url": "http://tv.nxog.top/m/",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
