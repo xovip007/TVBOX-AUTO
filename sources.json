@@ -1,37 +1,37 @@
 {
   "timeoutMs": 12000,
-  "maxActiveSources": 5,
+  "maxActiveSources": 10,
   "sources": [
 
     {
       "name": "🍚饭太硬",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "🤖潇洒主线",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "⚜qist-jsm",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "⚜qist-xiaosa",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "enabled": true
+      "enabled": false
     },    
     {
       "name": "1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "FreeOK Box",
@@ -46,7 +46,7 @@
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "cluntop box",
