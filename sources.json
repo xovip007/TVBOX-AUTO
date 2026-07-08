@@ -50,7 +50,7 @@
     {
       "name": "qist TvBox",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "1771245847 TvBox",
