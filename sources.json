@@ -6,27 +6,27 @@
     {
       "name": "🍚饭太硬",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "🤖潇洒主线",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "⚜qist-jsm",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "⚜qist-xiaosa",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "zzq1234567890 adult",
@@ -41,22 +41,22 @@
     {
       "name": "1771245847 TvBox",
       "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "cluntop box",
