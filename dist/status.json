@@ -1,47 +1,57 @@
 {
-  "updatedAt": "2026-07-08T07:20:27.394Z",
+  "updatedAt": "2026-07-09T10:33:36.932Z",
   "activeSource": {
-    "name": "cluntop box",
-    "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-    "elapsedMs": 124,
-    "siteCount": 76
+    "name": "⚜qist-jsm",
+    "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+    "elapsedMs": 57,
+    "siteCount": 155
   },
   "availableSources": [
     {
-      "name": "FreeOK TVBox",
-      "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 36
+      "name": "⚜qist-xiaosa",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "elapsedMs": 7
     },
     {
-      "name": "cluntop fun",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
-      "elapsedMs": 78
+      "name": "🤖潇洒主线",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "elapsedMs": 37
     },
     {
-      "name": "25175 TvBox",
-      "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
-      "elapsedMs": 92
-    },
-    {
-      "name": "apaoyun 186",
-      "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
-      "elapsedMs": 115
+      "name": "⚜qist-jsm",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "elapsedMs": 57
     },
     {
       "name": "cluntop box",
       "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-      "elapsedMs": 124
+      "elapsedMs": 58
     },
     {
-      "name": "FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 176
+      "name": "📺qist-dianshi",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "elapsedMs": 66
     },
     {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 615
+      "name": "apaoyun 186",
+      "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
+      "elapsedMs": 69
+    },
+    {
+      "name": "25175 TvBox",
+      "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
+      "elapsedMs": 75
+    },
+    {
+      "name": "cluntop fun",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+      "elapsedMs": 114
+    },
+    {
+      "name": "🍚饭太硬",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
+      "elapsedMs": 252
     }
   ],
-  "failedCount": 2
+  "failedCount": 1
 }
