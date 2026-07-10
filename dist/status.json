@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-07-10T10:30:49.633Z",
+  "updatedAt": "2026-07-10T21:39:33.797Z",
   "activeSource": {
     "name": "⚜qist-jsm",
     "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-    "elapsedMs": 127,
+    "elapsedMs": 42,
     "siteCount": 157
   },
   "availableSources": [
     {
       "name": "⚜qist-xiaosa",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "elapsedMs": 4
-    },
-    {
-      "name": "cluntop box",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-      "elapsedMs": 109
-    },
-    {
-      "name": "🤖潇洒主线",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "elapsedMs": 113
-    },
-    {
-      "name": "cluntop fun",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
-      "elapsedMs": 125
+      "elapsedMs": 5
     },
     {
       "name": "⚜qist-jsm",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 127
+      "elapsedMs": 42
+    },
+    {
+      "name": "cluntop fun",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+      "elapsedMs": 60
     },
     {
       "name": "25175 TvBox",
       "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
-      "elapsedMs": 147
+      "elapsedMs": 76
+    },
+    {
+      "name": "🤖潇洒主线",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "elapsedMs": 82
     },
     {
       "name": "apaoyun 186",
       "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
-      "elapsedMs": 171
+      "elapsedMs": 131
     },
     {
       "name": "🍚饭太硬",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
-      "elapsedMs": 236
+      "elapsedMs": 160
+    },
+    {
+      "name": "cluntop box",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
+      "elapsedMs": 162
     },
     {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "elapsedMs": 330
+      "elapsedMs": 211
     }
   ],
   "failedCount": 1
