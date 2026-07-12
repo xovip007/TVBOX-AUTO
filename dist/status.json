@@ -1,57 +1,37 @@
 {
-  "updatedAt": "2026-07-11T20:32:41.638Z",
+  "updatedAt": "2026-07-12T00:35:28.406Z",
   "activeSource": {
     "name": "⚜qist-jsm",
     "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-    "elapsedMs": 6,
+    "elapsedMs": 5,
     "siteCount": 157
   },
   "availableSources": [
     {
-      "name": "⚜qist-xiaosa",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "name": "⚜qist-jsm",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "elapsedMs": 5
     },
     {
-      "name": "⚜qist-jsm",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 6
-    },
-    {
-      "name": "25175 TvBox",
-      "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
-      "elapsedMs": 32
-    },
-    {
-      "name": "📺qist-dianshi",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "elapsedMs": 37
-    },
-    {
-      "name": "cluntop box",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-      "elapsedMs": 44
+      "name": "⚜qist-xiaosa",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "elapsedMs": 7
     },
     {
       "name": "🤖潇洒主线",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "elapsedMs": 50
+      "elapsedMs": 26
     },
     {
-      "name": "apaoyun 186",
-      "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
-      "elapsedMs": 57
-    },
-    {
-      "name": "cluntop fun",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
-      "elapsedMs": 59
+      "name": "📺qist-dianshi",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "elapsedMs": 32
     },
     {
       "name": "🍚饭太硬",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json",
-      "elapsedMs": 130
+      "elapsedMs": 114
     }
   ],
-  "failedCount": 1
+  "failedCount": 0
 }
