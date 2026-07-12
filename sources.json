@@ -1,6 +1,6 @@
 {
   "timeoutMs": 12000,
-  "maxActiveSources": 10,
+  "maxActiveSources": 20,
   "sources": [
 
     {
@@ -29,21 +29,6 @@
       "enabled": true
     },
     {
-      "name": "zzq1234567890 adult",
-      "url": "https://raw.githubusercontent.com/zzq1234567890/tvbox1/refs/heads/main/adult.json",
-      "enabled": true
-    },
-    {
-      "name": "25175 TvBox",
-      "url": "https://raw.githubusercontent.com/25175/tvyuan/refs/heads/master/tvbox.json",
-      "enabled": true
-    },
-    {
-      "name": "1771245847 TvBox",
-      "url": "https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
-      "enabled": false
-    },
-    {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
       "enabled": false
@@ -51,31 +36,6 @@
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "enabled": false
-    },
-    {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "enabled": false
-    },
-    {
-      "name": "cluntop box",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
-      "enabled": true
-    },
-    {
-      "name": "cluntop fun",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
-      "enabled": true
-    },
-    {
-      "name": "apaoyun 186",
-      "url": "https://raw.githubusercontent.com/apaoyun/apaoyun.github.io/refs/heads/main/186.json",
-      "enabled": true
-    },
-    {
-      "name": "Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
       "enabled": false
     },
     {
