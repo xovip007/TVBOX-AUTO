@@ -2,37 +2,18 @@
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/spider.jar;md5;a0bcb6735817d092dc249460409d52ad",
   "lives": [
     {
-      "name": "migu",
-      "type": 0,
-      "url": "https://develop202.github.io/migu_video/interface.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
       "name": "live",
+      "boot": false,
       "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/tvboxtv.txt",
-      "playerType": 1,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/tv.txt",
+      "playerType": 2,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     }
   ],
-  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+  "wallpaper": "https://qist.cc/api/api.php",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -81,6 +62,16 @@
       }
     },
     {
+      "key": "闪雷",
+      "name": "闪雷┃MP4",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/678.js",
+      "header": {
+        "User-Agent": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      }
+    },
+    {
       "key": "fyyy",
       "name": "飞宇影院",
       "type": 3,
@@ -113,7 +104,7 @@
     },
     {
       "key": "italkbbtv",
-      "name": "ITalkBB｜外",
+      "name": "ITalkBB | 外",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/py/ITalkBBTV.py",
       "searchable": 1,
@@ -2009,16 +2000,6 @@
       "changeable": 0
     },
     {
-      "key": "應用商店",
-      "name": "應用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/market.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar"
-    },
-    {
       "key": "bb",
       "name": "配置接口完全免费",
       "type": 3,
@@ -2398,13 +2379,6 @@
         }
       }
     }
-  ],
-  "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "flags": [
     "youku",
