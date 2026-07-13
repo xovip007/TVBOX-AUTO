@@ -6,22 +6,22 @@
     {
       "name": "🍚饭太硬",
       "url": "http://www.饭太硬.net/tv",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "🤖潇洒主线",
       "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "🐟️摸鱼儿",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "🥈王二小",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "📺qist-dianshi",
@@ -36,7 +36,7 @@
     {
       "name": "小盒子4K",
       "url": "http://xhztv.top/4k.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "小盒子单仓",
@@ -46,7 +46,7 @@
     {
       "name": "小马",
       "url": "https://szyyds.cn/tv/x.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "老刘备",
@@ -61,17 +61,17 @@
     {
       "name": "嗷呜",
       "url": "http://itv666.cc/aowu/config.webp",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "无名",
       "url": "https://6800.kstore.vip/fish.json",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "tv.nxog.top",
       "url": "http://tv.nxog.top/m/",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
