@@ -5,7 +5,7 @@ const RESULT_FILE = new URL('../dist/check-result.json', import.meta.url);
 const OUT_FILE = new URL('../dist/tvbox.json', import.meta.url);
 const STATUS_FILE = new URL('../dist/status.json', import.meta.url);
 
-const RELATIVE_BASE = 'https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/';
+const RELATIVE_BASE = 'https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/';
 
 // Known relative path patterns in TVBox configs that need resolution
 const RELATIVE_PATTERNS = [
