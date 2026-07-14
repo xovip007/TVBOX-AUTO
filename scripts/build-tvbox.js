@@ -5,12 +5,12 @@ const RESULT_FILE = new URL('../dist/check-result.json', import.meta.url);
 const OUT_FILE = new URL('../dist/tvbox.json', import.meta.url);
 const STATUS_FILE = new URL('../dist/status.json', import.meta.url);
 
-const RELATIVE_BASE = 'https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/';
+const RELATIVE_BASE = 'https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/';
 
 // Known relative path patterns in TVBox configs that need resolution
 const RELATIVE_PATTERNS = [
-  './', '../', 'json/', 'js/', 'lib/', 'XBPQ/', 'XYQBiu/',
-  'XYQHiker/', 'cat/', 'biliext/', 'tvfan/', 'wogg.json'
+  './', '../', 'json/', 'js/', 'lib/', 'XBPQ/', 'XYQBiu/', 'jar/', 'live/', 'py/', 'xiaosa/',
+  'XYQHiker/', 'cat/', 'biliext/', 'jsm.json', 'dianshi.json', 'fty.json'
 ];
 
 function isRelativePath(str) {
