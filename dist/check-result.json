@@ -1,48 +1,24 @@
 {
-  "updatedAt": "2026-07-14T09:56:39.198Z",
+  "updatedAt": "2026-07-14T10:31:29.773Z",
   "results": [
     {
-      "name": "🥈王二小",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "name": "小盒子单仓",
+      "url": "http://xhztv.top/xhz",
       "ok": true,
       "status": 200,
-      "elapsedMs": 36,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 29746
-    },
-    {
-      "name": "📺qist-dianshi",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 53,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 46602
-    },
-    {
-      "name": "🐟️摸鱼儿",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 58,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 47380
+      "elapsedMs": 31,
+      "contentType": "application/json",
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 19728
     },
     {
       "name": "小盒子4K",
       "url": "http://xhztv.top/4k.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 183,
+      "elapsedMs": 93,
       "contentType": "application/json",
       "isJson": false,
       "hasSites": false,
@@ -54,7 +30,7 @@
       "url": "https://raw.liucn.cc/box/m.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 195,
+      "elapsedMs": 136,
       "contentType": "application/json; charset=utf-8",
       "isJson": false,
       "hasSites": false,
@@ -62,11 +38,47 @@
       "size": 57874
     },
     {
+      "name": "🐟️摸鱼儿",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 155,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 47380
+    },
+    {
+      "name": "🥈王二小",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 178,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 29746
+    },
+    {
+      "name": "📺qist-dianshi",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 323,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 46602
+    },
+    {
       "name": "肥猫",
       "url": "http://肥猫.net/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 551,
+      "elapsedMs": 355,
       "contentType": "text/html",
       "isJson": false,
       "hasSites": false,
@@ -74,23 +86,11 @@
       "size": 40814
     },
     {
-      "name": "🍚饭太硬",
-      "url": "http://www.饭太硬.net/tv",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 689,
-      "contentType": "image/x-ms-bmp",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 21578
-    },
-    {
       "name": "日后",
       "url": "http://rihou.cc:88/demo.php",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1109,
+      "elapsedMs": 760,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -98,28 +98,28 @@
       "size": 20709
     },
     {
+      "name": "🍚饭太硬",
+      "url": "http://www.饭太硬.net/tv",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 764,
+      "contentType": "image/x-ms-bmp",
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 21578
+    },
+    {
       "name": "🤖潇洒主线",
       "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1293,
+      "elapsedMs": 1241,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
       "size": 54581
-    },
-    {
-      "name": "小盒子单仓",
-      "url": "http://xhztv.top/xhz",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 2014,
-      "contentType": "application/json",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 19728
     }
   ]
 }
