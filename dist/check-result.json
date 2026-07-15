@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-14T10:31:29.773Z",
+  "updatedAt": "2026-07-15T00:56:27.038Z",
   "results": [
     {
       "name": "小盒子单仓",
       "url": "http://xhztv.top/xhz",
       "ok": true,
       "status": 200,
-      "elapsedMs": 31,
+      "elapsedMs": 65,
       "contentType": "application/json",
       "isJson": false,
       "hasSites": false,
@@ -18,7 +18,7 @@
       "url": "http://xhztv.top/4k.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 93,
+      "elapsedMs": 86,
       "contentType": "application/json",
       "isJson": false,
       "hasSites": false,
@@ -26,47 +26,11 @@
       "size": 30612
     },
     {
-      "name": "老刘备",
-      "url": "https://raw.liucn.cc/box/m.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 136,
-      "contentType": "application/json; charset=utf-8",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 57874
-    },
-    {
-      "name": "🐟️摸鱼儿",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 155,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 47380
-    },
-    {
-      "name": "🥈王二小",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 178,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 29746
-    },
-    {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 323,
+      "elapsedMs": 109,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -74,11 +38,47 @@
       "size": 46602
     },
     {
+      "name": "🐟️摸鱼儿",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 118,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 47380
+    },
+    {
+      "name": "老刘备",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 133,
+      "contentType": "application/json; charset=utf-8",
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 57874
+    },
+    {
+      "name": "🥈王二小",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 138,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 29746
+    },
+    {
       "name": "肥猫",
       "url": "http://肥猫.net/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 355,
+      "elapsedMs": 345,
       "contentType": "text/html",
       "isJson": false,
       "hasSites": false,
@@ -86,23 +86,23 @@
       "size": 40814
     },
     {
-      "name": "日后",
-      "url": "http://rihou.cc:88/demo.php",
+      "name": "🤖潇洒主线",
+      "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 760,
+      "elapsedMs": 669,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
-      "size": 20709
+      "size": 55715
     },
     {
       "name": "🍚饭太硬",
       "url": "http://www.饭太硬.net/tv",
       "ok": true,
       "status": 200,
-      "elapsedMs": 764,
+      "elapsedMs": 1060,
       "contentType": "image/x-ms-bmp",
       "isJson": false,
       "hasSites": false,
@@ -110,16 +110,16 @@
       "size": 21578
     },
     {
-      "name": "🤖潇洒主线",
-      "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
+      "name": "日后",
+      "url": "http://rihou.cc:88/demo.php",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1241,
+      "elapsedMs": 7576,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
-      "size": 54581
+      "size": 20709
     }
   ]
 }
