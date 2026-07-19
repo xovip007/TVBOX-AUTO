@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-07-19T06:15:34.898Z",
+  "updatedAt": "2026-07-19T07:52:32.725Z",
   "activeSource": {
     "name": "📺qist-dianshi",
     "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-    "elapsedMs": 52,
+    "elapsedMs": 35,
     "siteCount": 157
   },
   "availableSources": [
     {
       "name": "📺qist-dianshi",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "elapsedMs": 52
-    },
-    {
-      "name": "🐟️摸鱼儿",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 66
+      "elapsedMs": 35
     },
     {
       "name": "🥈王二小",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "elapsedMs": 162
+      "elapsedMs": 152
+    },
+    {
+      "name": "🐟️摸鱼儿",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "elapsedMs": 225
     },
     {
       "name": "🤖潇洒主线",
       "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
-      "elapsedMs": 1031
+      "elapsedMs": 1153
     },
     {
       "name": "日后",
       "url": "http://rihou.cc:88/demo.php",
-      "elapsedMs": 2163
+      "elapsedMs": 2118
     }
   ],
   "failedCount": 5
