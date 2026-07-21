@@ -10,7 +10,7 @@
     },
     {
       "name": "🤖潇洒主线",
-      "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
       "enabled": true
     },
     {
@@ -34,34 +34,14 @@
       "enabled": true
     },
     {
-      "name": "小盒子4K",
-      "url": "http://xhztv.top/4k.json",
-      "enabled": true
-    },
-    {
       "name": "小盒子单仓",
       "url": "http://xhztv.top/xhz",
       "enabled": true
     },
     {
-      "name": "小马",
-      "url": "https://szyyds.cn/tv/x.json",
-      "enabled": false
-    },
-    {
       "name": "老刘备",
       "url": "https://raw.liucn.cc/box/m.json",
       "enabled": true
-    },
-    {
-      "name": "日后",
-      "url": "http://rihou.cc:88/demo.php",
-      "enabled": true
-    },
-    {
-      "name": "嗷呜",
-      "url": "http://itv666.cc/aowu/config.webp",
-      "enabled": false
     },
     {
       "name": "无名",
