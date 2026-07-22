@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-07-21T09:33:47.996Z",
+  "updatedAt": "2026-07-22T09:19:15.576Z",
   "activeSource": {
-    "name": "🤖潇洒主线",
-    "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
-    "elapsedMs": 63,
-    "siteCount": 157
+    "name": "📺qist-dianshi",
+    "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+    "elapsedMs": 119,
+    "siteCount": 156
   },
   "availableSources": [
     {
-      "name": "🤖潇洒主线",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
-      "elapsedMs": 63
-    },
-    {
-      "name": "🐟️摸鱼儿",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "elapsedMs": 257
+      "name": "📺qist-dianshi",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
+      "elapsedMs": 119
     },
     {
       "name": "🥈王二小",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "elapsedMs": 277
+      "elapsedMs": 123
     },
     {
-      "name": "📺qist-dianshi",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json",
-      "elapsedMs": 289
+      "name": "🐟️摸鱼儿",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "elapsedMs": 132
+    },
+    {
+      "name": "🤖潇洒主线",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+      "elapsedMs": 176
     }
   ],
   "failedCount": 4
