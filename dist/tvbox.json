@@ -1,38 +1,19 @@
 {
-  "spider": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/jar/spider.jar;md5;ad09eaea3d09acc403385b8eea97cb10",
+  "spider": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/jar/spider.jar;md5;540eb28c22d2488c91ecdf41e4b2012d",
   "lives": [
     {
-      "name": "migu",
-      "type": 0,
-      "url": "https://develop202.github.io/migu_video/interface.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
       "name": "live",
+      "boot": false,
       "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/tvboxtv.txt",
-      "playerType": 1,
+      "url": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/tv.txt",
+      "playerType": 2,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     }
   ],
-  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+  "wallpaper": "https://qist.cc/api/api.php",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -81,6 +62,16 @@
       }
     },
     {
+      "key": "闪雷",
+      "name": "闪雷┃MP4",
+      "type": 3,
+      "api": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/js/678.js",
+      "header": {
+        "User-Agent": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      }
+    },
+    {
       "key": "fyyy",
       "name": "飞宇影院",
       "type": 3,
@@ -113,7 +104,7 @@
     },
     {
       "key": "italkbbtv",
-      "name": "ITalkBB｜外",
+      "name": "ITalkBB | 外",
       "type": 3,
       "api": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/py/ITalkBBTV.py",
       "searchable": 1,
@@ -367,6 +358,32 @@
         "dataIv": "FTgP4Gq8zPiqbt7M",
         "init": "initV120",
         "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "麻花",
+      "name": "麻花 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://150.158.123.62:130",
+        "dataKey": "q7gj4f9br3fls6nh",
+        "dataIv": "q7gj4f9br3fls6nh"
+      }
+    },
+    {
+      "key": "不戳",
+      "name": "不戳 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcmszbc.zbc4k.app",
+        "dataKey": "pYrEkiWRYhBLTUTC",
+        "dataIv": "pYrEkiWRYhBLTUTC"
       }
     },
     {
@@ -642,6 +659,20 @@
           "https://123panfx.com",
           "https://pan1.me"
         ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "光鸭臻影社",
+      "name": "鸭社 • 4K",
+      "type": 3,
+      "api": "csp_PanWebShareZY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
       },
       "timeout": 60
     },
@@ -2003,16 +2034,6 @@
       "changeable": 0
     },
     {
-      "key": "應用商店",
-      "name": "應用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/json/market.json",
-      "jar": "https://g.33445500.xyz/https://raw.githubusercontent.com/xovip007/qist-tvbox/refs/heads/master/jar/pg.jar"
-    },
-    {
       "key": "bb",
       "name": "配置接口完全免费",
       "type": 3,
@@ -2392,13 +2413,6 @@
         }
       }
     }
-  ],
-  "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "flags": [
     "youku",
